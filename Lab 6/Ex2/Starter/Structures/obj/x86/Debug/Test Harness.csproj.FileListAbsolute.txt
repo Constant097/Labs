@@ -1,0 +1,29 @@
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Module6\Ex 2 - Structures\Solution\Structures\bin\Debug\Structures.exe
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Module6\Ex 2 - Structures\Solution\Structures\bin\Debug\Structures.pdb
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Module6\Ex 2 - Structures\Solution\Structures\bin\Debug\StressTest.dll
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Module6\Ex 2 - Structures\Solution\Structures\bin\Debug\StressTest.pdb
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Module6\Ex 2 - Structures\Solution\Structures\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Module6\Ex 2 - Structures\Solution\Structures\obj\x86\Debug\MainWindow.baml
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Module6\Ex 2 - Structures\Solution\Structures\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Module6\Ex 2 - Structures\Solution\Structures\obj\x86\Debug\App.g.cs
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Module6\Ex 2 - Structures\Solution\Structures\obj\x86\Debug\Structures_MarkupCompile.cache
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Module6\Ex 2 - Structures\Solution\Structures\obj\x86\Debug\Structures.g.resources
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Module6\Ex 2 - Structures\Solution\Structures\obj\x86\Debug\Structures.Properties.Resources.resources
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Module6\Ex 2 - Structures\Solution\Structures\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Module6\Ex 2 - Structures\Solution\Structures\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Module6\Ex 2 - Structures\Solution\Structures\obj\x86\Debug\Structures.exe
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Module6\Ex 2 - Structures\Solution\Structures\obj\x86\Debug\Structures.pdb
+E:\Labfiles\Lab 6\Ex2\Starter\Structures\obj\x86\Debug\Test Harness.csprojResolveAssemblyReference.cache
+E:\Labfiles\Lab 6\Ex2\Starter\Structures\obj\x86\Debug\MainWindow.baml
+E:\Labfiles\Lab 6\Ex2\Starter\Structures\obj\x86\Debug\MainWindow.g.cs
+E:\Labfiles\Lab 6\Ex2\Starter\Structures\obj\x86\Debug\App.g.cs
+E:\Labfiles\Lab 6\Ex2\Starter\Structures\obj\x86\Debug\Structures_MarkupCompile.cache
+E:\Labfiles\Lab 6\Ex2\Starter\Structures\obj\x86\Debug\Structures.g.resources
+E:\Labfiles\Lab 6\Ex2\Starter\Structures\obj\x86\Debug\Structures.Properties.Resources.resources
+E:\Labfiles\Lab 6\Ex2\Starter\Structures\obj\x86\Debug\Test Harness.csproj.GenerateResource.Cache
+E:\Labfiles\Lab 6\Ex2\Starter\Structures\bin\Debug\Structures.exe
+E:\Labfiles\Lab 6\Ex2\Starter\Structures\bin\Debug\Structures.pdb
+E:\Labfiles\Lab 6\Ex2\Starter\Structures\bin\Debug\StressTest.dll
+E:\Labfiles\Lab 6\Ex2\Starter\Structures\bin\Debug\StressTest.pdb
+E:\Labfiles\Lab 6\Ex2\Starter\Structures\obj\x86\Debug\Structures.exe
+E:\Labfiles\Lab 6\Ex2\Starter\Structures\obj\x86\Debug\Structures.pdb

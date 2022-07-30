@@ -1,0 +1,10 @@
+C:\Users\James\Desktop\MSL C# Labs\Module8\DeviceController\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\James\Desktop\MSL C# Labs\Module8\DeviceController\bin\Debug\DeviceController.dll
+C:\Users\James\Desktop\MSL C# Labs\Module8\DeviceController\bin\Debug\DeviceController.pdb
+C:\Users\James\Desktop\MSL C# Labs\Module8\DeviceController\obj\x86\Debug\DeviceController.dll
+C:\Users\James\Desktop\MSL C# Labs\Module8\DeviceController\obj\x86\Debug\DeviceController.pdb
+C:\Users\James\Desktop\MSL C# Labs\Module8\Ex2\Solution\DeviceController\bin\Debug\DeviceController.dll
+C:\Users\James\Desktop\MSL C# Labs\Module8\Ex2\Solution\DeviceController\bin\Debug\DeviceController.pdb
+C:\Users\James\Desktop\MSL C# Labs\Module8\Ex2\Solution\DeviceController\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\James\Desktop\MSL C# Labs\Module8\Ex2\Solution\DeviceController\obj\x86\Debug\DeviceController.dll
+C:\Users\James\Desktop\MSL C# Labs\Module8\Ex2\Solution\DeviceController\obj\x86\Debug\DeviceController.pdb

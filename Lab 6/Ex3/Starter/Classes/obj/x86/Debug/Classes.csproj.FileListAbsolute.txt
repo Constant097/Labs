@@ -1,0 +1,13 @@
+c:\Users\Dominic\Documents\Visual Studio 2010\Projects\Module6\Classes\bin\Debug\Classes.exe
+c:\Users\Dominic\Documents\Visual Studio 2010\Projects\Module6\Classes\bin\Debug\Classes.pdb
+c:\Users\Dominic\Documents\Visual Studio 2010\Projects\Module6\Classes\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\Users\Dominic\Documents\Visual Studio 2010\Projects\Module6\Classes\obj\x86\Debug\MainWindow.baml
+c:\Users\Dominic\Documents\Visual Studio 2010\Projects\Module6\Classes\obj\x86\Debug\MainWindow.g.cs
+c:\Users\Dominic\Documents\Visual Studio 2010\Projects\Module6\Classes\obj\x86\Debug\App.g.cs
+c:\Users\Dominic\Documents\Visual Studio 2010\Projects\Module6\Classes\obj\x86\Debug\Classes_MarkupCompile.cache
+c:\Users\Dominic\Documents\Visual Studio 2010\Projects\Module6\Classes\obj\x86\Debug\Classes.g.resources
+c:\Users\Dominic\Documents\Visual Studio 2010\Projects\Module6\Classes\obj\x86\Debug\Classes.Properties.Resources.resources
+c:\Users\Dominic\Documents\Visual Studio 2010\Projects\Module6\Classes\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\Users\Dominic\Documents\Visual Studio 2010\Projects\Module6\Classes\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\Users\Dominic\Documents\Visual Studio 2010\Projects\Module6\Classes\obj\x86\Debug\Classes.exe
+c:\Users\Dominic\Documents\Visual Studio 2010\Projects\Module6\Classes\obj\x86\Debug\Classes.pdb

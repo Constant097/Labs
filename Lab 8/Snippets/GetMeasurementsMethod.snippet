@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CodeSnippets xmlns="http://schemas.microsoft.com/VisualStudio/2005/CodeSnippet">
+  <CodeSnippet Format="1.0.0">
+
+    <Header>
+      <Title>
+        Mod8 GetMeasurementsMethod
+      </Title>
+      <Shortcut>
+        Mod8GetMeasurementsMethod
+      </Shortcut>
+    </Header>
+    <Snippet>
+      <Code Language="CSharp">
+        <![CDATA[private void GetMeasurements()
+{
+dataCaptured = new int[10];
+System.Threading.ThreadPool.QueueUserWorkItem((dummy) =>
+{
+int x = 0;
+Random timer = new Random();
+
+while (controller != null)
+{
+System.Threading.Thread.Sleep(timer.Next(1000, 5000));
+dataCaptured[x] = controller != null ? controller.TakeMeasurement(): dataCaptured[x];
+mostRecentMeasure = dataCaptured[x];
+
+x++;
+if (x == 10)
+{
+x = 0;
+}
+}
+});
+}]]>
+      </Code>
+    </Snippet>
+  </CodeSnippet>
+</CodeSnippets>

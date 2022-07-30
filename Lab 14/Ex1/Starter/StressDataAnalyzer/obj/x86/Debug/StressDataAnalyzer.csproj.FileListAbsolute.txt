@@ -1,0 +1,84 @@
+E:\Labfiles\Lab 14\Solution\StressDataAnalyzer\StressDataAnalyzer\bin\Debug\StressDataAnalyzer.exe
+E:\Labfiles\Lab 14\Solution\StressDataAnalyzer\StressDataAnalyzer\bin\Debug\StressDataAnalyzer.pdb
+E:\Labfiles\Lab 14\Solution\StressDataAnalyzer\StressDataAnalyzer\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Labfiles\Lab 14\Solution\StressDataAnalyzer\StressDataAnalyzer\obj\x86\Debug\DataAnalyzer.baml
+E:\Labfiles\Lab 14\Solution\StressDataAnalyzer\StressDataAnalyzer\obj\x86\Debug\DataAnalyzer.g.cs
+E:\Labfiles\Lab 14\Solution\StressDataAnalyzer\StressDataAnalyzer\obj\x86\Debug\App.g.cs
+E:\Labfiles\Lab 14\Solution\StressDataAnalyzer\StressDataAnalyzer\obj\x86\Debug\StressDataAnalyzer_MarkupCompile.cache
+E:\Labfiles\Lab 14\Solution\StressDataAnalyzer\StressDataAnalyzer\obj\x86\Debug\StressDataAnalyzer.g.resources
+E:\Labfiles\Lab 14\Solution\StressDataAnalyzer\StressDataAnalyzer\obj\x86\Debug\StressDataAnalyzer.Properties.Resources.resources
+E:\Labfiles\Lab 14\Solution\StressDataAnalyzer\StressDataAnalyzer\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Labfiles\Lab 14\Solution\StressDataAnalyzer\StressDataAnalyzer\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Labfiles\Lab 14\Solution\StressDataAnalyzer\StressDataAnalyzer\obj\x86\Debug\StressDataAnalyzer.exe
+E:\Labfiles\Lab 14\Solution\StressDataAnalyzer\StressDataAnalyzer\obj\x86\Debug\StressDataAnalyzer.pdb
+E:\Labfiles\Lab 14\Solution\StressDataAnalyzer\StressDataAnalyzer\bin\Debug\BinaryTree.dll
+E:\Labfiles\Lab 14\Solution\StressDataAnalyzer\StressDataAnalyzer\bin\Debug\StressTestResult.dll
+E:\Labfiles\Lab 14\Solution\StressDataAnalyzer\StressDataAnalyzer\bin\Debug\BinaryTree.pdb
+E:\Labfiles\Lab 14\Solution\StressDataAnalyzer\StressDataAnalyzer\bin\Debug\StressTestResult.pdb
+E:\Labfiles\Lab 14\Solution\Basic StressDataAnalyzer\StressDataAnalyzer\obj\x86\Debug\StressDataAnalyzer.exe
+E:\Labfiles\Lab 14\Solution\Basic StressDataAnalyzer\StressDataAnalyzer\obj\x86\Debug\StressDataAnalyzer.pdb
+E:\Labfiles\Lab 14\Solution\Basic StressDataAnalyzer\StressDataAnalyzer\bin\Debug\StressDataAnalyzer.exe
+E:\Labfiles\Lab 14\Solution\Basic StressDataAnalyzer\StressDataAnalyzer\bin\Debug\StressDataAnalyzer.pdb
+E:\Labfiles\Lab 14\Solution\Basic StressDataAnalyzer\StressDataAnalyzer\bin\Debug\BinaryTree.dll
+E:\Labfiles\Lab 14\Solution\Basic StressDataAnalyzer\StressDataAnalyzer\bin\Debug\StressTestResult.dll
+E:\Labfiles\Lab 14\Solution\Basic StressDataAnalyzer\StressDataAnalyzer\bin\Debug\BinaryTree.pdb
+E:\Labfiles\Lab 14\Solution\Basic StressDataAnalyzer\StressDataAnalyzer\bin\Debug\StressTestResult.pdb
+E:\Labfiles\Lab 14\Solution\Basic StressDataAnalyzer\StressDataAnalyzer\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Labfiles\Lab 14\Solution\Basic StressDataAnalyzer\StressDataAnalyzer\obj\x86\Debug\DataAnalyzer.baml
+E:\Labfiles\Lab 14\Solution\Basic StressDataAnalyzer\StressDataAnalyzer\obj\x86\Debug\DataAnalyzer.g.cs
+E:\Labfiles\Lab 14\Solution\Basic StressDataAnalyzer\StressDataAnalyzer\obj\x86\Debug\App.g.cs
+E:\Labfiles\Lab 14\Solution\Basic StressDataAnalyzer\StressDataAnalyzer\obj\x86\Debug\StressDataAnalyzer_MarkupCompile.cache
+E:\Labfiles\Lab 14\Solution\Basic StressDataAnalyzer\StressDataAnalyzer\obj\x86\Debug\StressDataAnalyzer.g.resources
+E:\Labfiles\Lab 14\Solution\Basic StressDataAnalyzer\StressDataAnalyzer\obj\x86\Debug\StressDataAnalyzer.Properties.Resources.resources
+E:\Labfiles\Lab 14\Solution\Basic StressDataAnalyzer\StressDataAnalyzer\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Labfiles\Lab 14\Solution\Basic StressDataAnalyzer\StressDataAnalyzer\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Lab 14\Ex 1 - LINQ Query\Solution\StressDataAnalyzer\bin\Debug\StressDataAnalyzer.exe
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Lab 14\Ex 1 - LINQ Query\Solution\StressDataAnalyzer\bin\Debug\StressDataAnalyzer.pdb
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Lab 14\Ex 1 - LINQ Query\Solution\StressDataAnalyzer\bin\Debug\BinaryTree.dll
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Lab 14\Ex 1 - LINQ Query\Solution\StressDataAnalyzer\bin\Debug\StressTestResult.dll
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Lab 14\Ex 1 - LINQ Query\Solution\StressDataAnalyzer\bin\Debug\BinaryTree.pdb
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Lab 14\Ex 1 - LINQ Query\Solution\StressDataAnalyzer\bin\Debug\StressTestResult.pdb
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Lab 14\Ex 1 - LINQ Query\Solution\StressDataAnalyzer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Lab 14\Ex 1 - LINQ Query\Solution\StressDataAnalyzer\obj\x86\Debug\DataAnalyzer.baml
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Lab 14\Ex 1 - LINQ Query\Solution\StressDataAnalyzer\obj\x86\Debug\DataAnalyzer.g.cs
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Lab 14\Ex 1 - LINQ Query\Solution\StressDataAnalyzer\obj\x86\Debug\App.g.cs
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Lab 14\Ex 1 - LINQ Query\Solution\StressDataAnalyzer\obj\x86\Debug\StressDataAnalyzer_MarkupCompile.cache
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Lab 14\Ex 1 - LINQ Query\Solution\StressDataAnalyzer\obj\x86\Debug\StressDataAnalyzer.g.resources
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Lab 14\Ex 1 - LINQ Query\Solution\StressDataAnalyzer\obj\x86\Debug\StressDataAnalyzer.Properties.Resources.resources
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Lab 14\Ex 1 - LINQ Query\Solution\StressDataAnalyzer\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Lab 14\Ex 1 - LINQ Query\Solution\StressDataAnalyzer\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Lab 14\Ex 1 - LINQ Query\Solution\StressDataAnalyzer\obj\x86\Debug\StressDataAnalyzer.exe
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Lab 14\Ex 1 - LINQ Query\Solution\StressDataAnalyzer\obj\x86\Debug\StressDataAnalyzer.pdb
+E:\Labfiles\Lab 14\Ex 1 - LINQ Query\Starter\StressDataAnalyzer\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Labfiles\Lab 14\Ex 1 - LINQ Query\Starter\StressDataAnalyzer\obj\x86\Debug\DataAnalyzer.baml
+E:\Labfiles\Lab 14\Ex 1 - LINQ Query\Starter\StressDataAnalyzer\obj\x86\Debug\DataAnalyzer.g.cs
+E:\Labfiles\Lab 14\Ex 1 - LINQ Query\Starter\StressDataAnalyzer\obj\x86\Debug\App.g.cs
+E:\Labfiles\Lab 14\Ex 1 - LINQ Query\Starter\StressDataAnalyzer\obj\x86\Debug\StressDataAnalyzer_MarkupCompile.cache
+E:\Labfiles\Lab 14\Ex 1 - LINQ Query\Starter\StressDataAnalyzer\obj\x86\Debug\StressDataAnalyzer.g.resources
+E:\Labfiles\Lab 14\Ex 1 - LINQ Query\Starter\StressDataAnalyzer\obj\x86\Debug\StressDataAnalyzer.Properties.Resources.resources
+E:\Labfiles\Lab 14\Ex 1 - LINQ Query\Starter\StressDataAnalyzer\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Labfiles\Lab 14\Ex 1 - LINQ Query\Starter\StressDataAnalyzer\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Labfiles\Lab 14\Ex 1 - LINQ Query\Starter\StressDataAnalyzer\bin\Debug\StressDataAnalyzer.exe
+E:\Labfiles\Lab 14\Ex 1 - LINQ Query\Starter\StressDataAnalyzer\bin\Debug\StressDataAnalyzer.pdb
+E:\Labfiles\Lab 14\Ex 1 - LINQ Query\Starter\StressDataAnalyzer\bin\Debug\BinaryTree.dll
+E:\Labfiles\Lab 14\Ex 1 - LINQ Query\Starter\StressDataAnalyzer\bin\Debug\StressTestResult.dll
+E:\Labfiles\Lab 14\Ex 1 - LINQ Query\Starter\StressDataAnalyzer\bin\Debug\BinaryTree.pdb
+E:\Labfiles\Lab 14\Ex 1 - LINQ Query\Starter\StressDataAnalyzer\bin\Debug\StressTestResult.pdb
+E:\Labfiles\Lab 14\Ex 1 - LINQ Query\Starter\StressDataAnalyzer\obj\x86\Debug\StressDataAnalyzer.exe
+E:\Labfiles\Lab 14\Ex 1 - LINQ Query\Starter\StressDataAnalyzer\obj\x86\Debug\StressDataAnalyzer.pdb
+E:\Labfiles\Lab 14\Ex1\Starter\StressDataAnalyzer\bin\Debug\StressDataAnalyzer.exe
+E:\Labfiles\Lab 14\Ex1\Starter\StressDataAnalyzer\bin\Debug\StressDataAnalyzer.pdb
+E:\Labfiles\Lab 14\Ex1\Starter\StressDataAnalyzer\bin\Debug\BinaryTree.dll
+E:\Labfiles\Lab 14\Ex1\Starter\StressDataAnalyzer\bin\Debug\StressTestResult.dll
+E:\Labfiles\Lab 14\Ex1\Starter\StressDataAnalyzer\bin\Debug\BinaryTree.pdb
+E:\Labfiles\Lab 14\Ex1\Starter\StressDataAnalyzer\bin\Debug\StressTestResult.pdb
+E:\Labfiles\Lab 14\Ex1\Starter\StressDataAnalyzer\obj\x86\Debug\StressDataAnalyzer.csprojResolveAssemblyReference.cache
+E:\Labfiles\Lab 14\Ex1\Starter\StressDataAnalyzer\obj\x86\Debug\DataAnalyzer.baml
+E:\Labfiles\Lab 14\Ex1\Starter\StressDataAnalyzer\obj\x86\Debug\DataAnalyzer.g.cs
+E:\Labfiles\Lab 14\Ex1\Starter\StressDataAnalyzer\obj\x86\Debug\App.g.cs
+E:\Labfiles\Lab 14\Ex1\Starter\StressDataAnalyzer\obj\x86\Debug\StressDataAnalyzer_MarkupCompile.cache
+E:\Labfiles\Lab 14\Ex1\Starter\StressDataAnalyzer\obj\x86\Debug\StressDataAnalyzer.g.resources
+E:\Labfiles\Lab 14\Ex1\Starter\StressDataAnalyzer\obj\x86\Debug\StressDataAnalyzer.Properties.Resources.resources
+E:\Labfiles\Lab 14\Ex1\Starter\StressDataAnalyzer\obj\x86\Debug\StressDataAnalyzer.csproj.GenerateResource.Cache
+E:\Labfiles\Lab 14\Ex1\Starter\StressDataAnalyzer\obj\x86\Debug\StressDataAnalyzer.exe
+E:\Labfiles\Lab 14\Ex1\Starter\StressDataAnalyzer\obj\x86\Debug\StressDataAnalyzer.pdb

@@ -1,0 +1,13 @@
+c:\Users\Dominic\Documents\Visual Studio 2010\Projects\Module6\Structures\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\Users\Dominic\Documents\Visual Studio 2010\Projects\Module6\Structures\obj\x86\Debug\MainWindow.baml
+c:\Users\Dominic\Documents\Visual Studio 2010\Projects\Module6\Structures\obj\x86\Debug\MainWindow.g.cs
+c:\Users\Dominic\Documents\Visual Studio 2010\Projects\Module6\Structures\obj\x86\Debug\App.g.cs
+c:\Users\Dominic\Documents\Visual Studio 2010\Projects\Module6\Structures\obj\x86\Debug\Structures_MarkupCompile.cache
+c:\Users\Dominic\Documents\Visual Studio 2010\Projects\Module6\Structures\obj\x86\Debug\Structures.g.resources
+c:\Users\Dominic\Documents\Visual Studio 2010\Projects\Module6\Structures\obj\x86\Debug\Structures.Properties.Resources.resources
+c:\Users\Dominic\Documents\Visual Studio 2010\Projects\Module6\Structures\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\Users\Dominic\Documents\Visual Studio 2010\Projects\Module6\Structures\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\Users\Dominic\Documents\Visual Studio 2010\Projects\Module6\Structures\bin\Debug\Structures.exe
+c:\Users\Dominic\Documents\Visual Studio 2010\Projects\Module6\Structures\bin\Debug\Structures.pdb
+c:\Users\Dominic\Documents\Visual Studio 2010\Projects\Module6\Structures\obj\x86\Debug\Structures.exe
+c:\Users\Dominic\Documents\Visual Studio 2010\Projects\Module6\Structures\obj\x86\Debug\Structures.pdb

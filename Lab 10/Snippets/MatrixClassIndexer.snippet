@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CodeSnippets xmlns="http://schemas.microsoft.com/VisualStudio/2005/CodeSnippet">
+  <CodeSnippet Format="1.0.0">
+
+    <Header>
+      <Title>
+        Mod10 MatrixClassIndexer        
+      </Title>
+      <Shortcut>
+        Mod10MatrixClassIndexer
+      </Shortcut>
+    </Header>
+    <Snippet>
+      <Code Language="CSharp">
+        <![CDATA[/// <summary>
+        /// Enables access to individual values in the matrix.
+        /// </summary>
+        /// <param name="RowIndex">In combination with the ColumnIndex parameter specifies which value to get or set.</param>
+        /// <param name="ColumnIndex">In combination with the RowIndex parameter specifies which value to get or set.</param>
+        /// <returns></returns>
+        public int this[int RowIndex, int ColumnIndex]
+        {
+             get
+            {
+                if (RowIndex > data.GetUpperBound(0) || ColumnIndex > data.GetUpperBound(0))
+                {
+                    throw new IndexOutOfRangeException();
+                }
+                else
+                {
+                    return data[RowIndex, ColumnIndex];
+                }
+            }
+            set
+            {
+                if (RowIndex > data.GetUpperBound(0) || ColumnIndex > data.GetUpperBound(0))
+                {
+                    throw new IndexOutOfRangeException();
+                }
+                else
+                {
+                    data[RowIndex, ColumnIndex] = value;
+                }
+            }
+        }]]>
+      </Code>
+    </Snippet>
+  </CodeSnippet>
+</CodeSnippets>

@@ -1,0 +1,19 @@
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Module6\StressTest\bin\Debug\StressTest.dll
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Module6\StressTest\bin\Debug\StressTest.pdb
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Module6\StressTest\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Module6\StressTest\obj\Debug\StressTest.dll
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Module6\StressTest\obj\Debug\StressTest.pdb
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Lab 7\Ex 1 - Hiding Data Members\Solution\StressTest\bin\Debug\StressTest.dll
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Lab 7\Ex 1 - Hiding Data Members\Solution\StressTest\bin\Debug\StressTest.pdb
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Lab 7\Ex 1 - Hiding Data Members\Solution\StressTest\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Lab 7\Ex 1 - Hiding Data Members\Solution\StressTest\obj\Debug\StressTest.dll
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Lab 7\Ex 1 - Hiding Data Members\Solution\StressTest\obj\Debug\StressTest.pdb
+E:\Labfiles\Lab 7\Ex 1\Starter\StressTest\bin\Debug\StressTest.dll
+E:\Labfiles\Lab 7\Ex 1\Starter\StressTest\bin\Debug\StressTest.pdb
+E:\Labfiles\Lab 7\Ex 1\Starter\StressTest\obj\Debug\ResolveAssemblyReference.cache
+E:\Labfiles\Lab 7\Ex 1\Starter\StressTest\obj\Debug\StressTest.dll
+E:\Labfiles\Lab 7\Ex 1\Starter\StressTest\obj\Debug\StressTest.pdb
+E:\Labfiles\Lab 7\Ex1\Starter\StressTest\bin\Debug\StressTest.dll
+E:\Labfiles\Lab 7\Ex1\Starter\StressTest\bin\Debug\StressTest.pdb
+E:\Labfiles\Lab 7\Ex1\Starter\StressTest\obj\Debug\StressTest.dll
+E:\Labfiles\Lab 7\Ex1\Starter\StressTest\obj\Debug\StressTest.pdb

@@ -1,0 +1,13 @@
+c:\users\dominic\documents\visual studio 2010\Projects\Module6\Enumerations\bin\Debug\Enumerations.exe
+c:\users\dominic\documents\visual studio 2010\Projects\Module6\Enumerations\bin\Debug\Enumerations.pdb
+c:\users\dominic\documents\visual studio 2010\Projects\Module6\Enumerations\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\dominic\documents\visual studio 2010\Projects\Module6\Enumerations\obj\x86\Debug\MainWindow.baml
+c:\users\dominic\documents\visual studio 2010\Projects\Module6\Enumerations\obj\x86\Debug\MainWindow.g.cs
+c:\users\dominic\documents\visual studio 2010\Projects\Module6\Enumerations\obj\x86\Debug\App.g.cs
+c:\users\dominic\documents\visual studio 2010\Projects\Module6\Enumerations\obj\x86\Debug\Enumerations_MarkupCompile.cache
+c:\users\dominic\documents\visual studio 2010\Projects\Module6\Enumerations\obj\x86\Debug\Enumerations.g.resources
+c:\users\dominic\documents\visual studio 2010\Projects\Module6\Enumerations\obj\x86\Debug\Enumerations.Properties.Resources.resources
+c:\users\dominic\documents\visual studio 2010\Projects\Module6\Enumerations\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\dominic\documents\visual studio 2010\Projects\Module6\Enumerations\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\dominic\documents\visual studio 2010\Projects\Module6\Enumerations\obj\x86\Debug\Enumerations.exe
+c:\users\dominic\documents\visual studio 2010\Projects\Module6\Enumerations\obj\x86\Debug\Enumerations.pdb

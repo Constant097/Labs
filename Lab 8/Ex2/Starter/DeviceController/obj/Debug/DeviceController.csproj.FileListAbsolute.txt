@@ -1,0 +1,14 @@
+C:\Users\James\Desktop\MSL C# Labs\Module8\Ex2\Solution\DeviceController\bin\Debug\DeviceController.dll
+C:\Users\James\Desktop\MSL C# Labs\Module8\Ex2\Solution\DeviceController\bin\Debug\DeviceController.pdb
+C:\Users\James\Desktop\MSL C# Labs\Module8\Ex2\Solution\DeviceController\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\James\Desktop\MSL C# Labs\Module8\Ex2\Solution\DeviceController\obj\Debug\DeviceController.dll
+C:\Users\James\Desktop\MSL C# Labs\Module8\Ex2\Solution\DeviceController\obj\Debug\DeviceController.pdb
+E:\Labfiles\Lab8\Ex2\Starter\DeviceController\obj\Debug\ResolveAssemblyReference.cache
+E:\Labfiles\Lab8\Ex2\Starter\DeviceController\obj\Debug\DeviceController.dll
+E:\Labfiles\Lab8\Ex2\Starter\DeviceController\obj\Debug\DeviceController.pdb
+E:\Labfiles\Lab8\Ex2\Starter\DeviceController\bin\Debug\DeviceController.dll
+E:\Labfiles\Lab8\Ex2\Starter\DeviceController\bin\Debug\DeviceController.pdb
+E:\Labfiles\Lab 8\Ex2\Starter\DeviceController\bin\Debug\DeviceController.dll
+E:\Labfiles\Lab 8\Ex2\Starter\DeviceController\bin\Debug\DeviceController.pdb
+E:\Labfiles\Lab 8\Ex2\Starter\DeviceController\obj\Debug\DeviceController.dll
+E:\Labfiles\Lab 8\Ex2\Starter\DeviceController\obj\Debug\DeviceController.pdb

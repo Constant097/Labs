@@ -1,0 +1,11 @@
+E:\Labfiles\Lab 2\Ex2\Starter\lab2.ex2\lab2.ex2\obj\x86\Debug\MainWindow.baml
+E:\Labfiles\Lab 2\Ex2\Starter\lab2.ex2\lab2.ex2\obj\x86\Debug\MainWindow.g.cs
+E:\Labfiles\Lab 2\Ex2\Starter\lab2.ex2\lab2.ex2\obj\x86\Debug\App.g.cs
+E:\Labfiles\Lab 2\Ex2\Starter\lab2.ex2\lab2.ex2\obj\x86\Debug\lab2.ex2_MarkupCompile.cache
+E:\Labfiles\Lab 2\Ex2\Starter\lab2.ex2\lab2.ex2\obj\x86\Debug\lab2.ex2.g.resources
+E:\Labfiles\Lab 2\Ex2\Starter\lab2.ex2\lab2.ex2\obj\x86\Debug\lab2.ex2.Properties.Resources.resources
+E:\Labfiles\Lab 2\Ex2\Starter\lab2.ex2\lab2.ex2\obj\x86\Debug\lab2.ex2.csproj.GenerateResource.Cache
+E:\Labfiles\Lab 2\Ex2\Starter\lab2.ex2\lab2.ex2\bin\Debug\lab2.ex2.exe
+E:\Labfiles\Lab 2\Ex2\Starter\lab2.ex2\lab2.ex2\bin\Debug\lab2.ex2.pdb
+E:\Labfiles\Lab 2\Ex2\Starter\lab2.ex2\lab2.ex2\obj\x86\Debug\lab2.ex2.exe
+E:\Labfiles\Lab 2\Ex2\Starter\lab2.ex2\lab2.ex2\obj\x86\Debug\lab2.ex2.pdb

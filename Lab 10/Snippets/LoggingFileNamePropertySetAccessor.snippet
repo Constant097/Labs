@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CodeSnippets xmlns="http://schemas.microsoft.com/VisualStudio/2005/CodeSnippet">
+  <CodeSnippet Format="1.0.0">
+
+    <Header>
+      <Title>
+        Mod10 LoggingFileNamePropertySetAccessor        
+      </Title>
+      <Shortcut>
+        Mod10LoggingFileNamePropertySetAccessor
+      </Shortcut>
+    </Header>
+    <Snippet>
+      <Code Language="CSharp">
+        <![CDATA[if (loggingFileWriter == null)
+                {
+                    // If the file has not been opened simply update the file name.
+                    loggingFileName = value;
+                }
+                else
+                {
+                    // If the file has been opened close the current file first,
+                    // then update the file name and open the new file.
+                    loggingFileWriter.WriteLine("Log File Changed");
+                    loggingFileWriter.WriteLine("New Log File: {0}", value);
+                    loggingFileWriter.Close();
+
+                    // Now update the logging file and open the new file.
+                    loggingFileName = value;
+
+                    // Check if the logging file exists - if not create it.
+                    if (!File.Exists(loggingFileName))
+                    {
+                        loggingFileWriter = File.CreateText(loggingFileName);
+                        loggingFileWriter.WriteLine("Log file status checked - Created");
+                        loggingFileWriter.WriteLine("Collecting Started");
+                    }
+                    else
+                    {
+                        loggingFileWriter = new StreamWriter(loggingFileName);
+                        loggingFileWriter.WriteLine("Log file status checked - Opened");
+                        loggingFileWriter.WriteLine("Collecting Started");
+                    }
+                    loggingFileWriter.WriteLine("Log File Changed Successfully");
+                }]]>
+      </Code>
+    </Snippet>
+  </CodeSnippet>
+</CodeSnippets>

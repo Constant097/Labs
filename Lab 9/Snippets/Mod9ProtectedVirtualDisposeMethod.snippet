@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CodeSnippets xmlns="http://schemas.microsoft.com/VisualStudio/2005/CodeSnippet">
+  <CodeSnippet Format="1.0.0">
+
+    <Header>
+      <Title>
+        Mod9 ProtectedVirtual DisposeMethod
+      </Title>
+      <Shortcut>
+        Mod9ProtectedVirtualDisposeMethod
+      </Shortcut>
+    </Header>
+    <Snippet>
+      <Code Language="CSharp">
+        <![CDATA[protected virtual void Dispose(bool disposing)
+        {
+            if (disposing)
+            {
+                // Check that the log file is closed, if it is not closed log a message and close it.
+                if (loggingFileWriter != null)
+                {
+                    loggingFileWriter.WriteLine("Object Disposed");
+                    loggingFileWriter.Flush();
+                    loggingFileWriter.Close();
+                    loggingFileWriter = null;
+                }
+            }
+        }]]>
+      </Code>
+    </Snippet>
+  </CodeSnippet>
+</CodeSnippets>

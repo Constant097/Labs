@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CodeSnippets xmlns="http://schemas.microsoft.com/VisualStudio/2005/CodeSnippet">
+  <CodeSnippet Format="1.0.0">
+
+    <Header>
+      <Title>
+        Mod9 InstantiateLoggingFileWriter
+      </Title>
+      <Shortcut>
+        Mod9InstantiateLoggingFileWriter
+      </Shortcut>
+    </Header>
+    <Snippet>
+      <Code Language="CSharp">
+        <![CDATA[// New code to check the logging file is not already open.
+            // If it is already open then write a log message.
+            // If not open the logging file.
+            if (loggingFileWriter == null)
+            {
+                // Check if the logging file exists - if not create it.
+                if (!File.Exists(loggingFileName))
+                {
+                    loggingFileWriter = File.CreateText(loggingFileName);
+                    loggingFileWriter.WriteLine("Log file status checked - Created");
+                    loggingFileWriter.WriteLine("Collecting Started");
+                }
+                else
+                {
+                    loggingFileWriter = new StreamWriter(loggingFileName);
+                    loggingFileWriter.WriteLine("Log file status checked - Opened");
+                    loggingFileWriter.WriteLine("Collecting Started");
+                }
+            }
+            else
+            {
+                loggingFileWriter.WriteLine("Log file status checked - Already open");
+                loggingFileWriter.WriteLine("Collecting Started");
+            }]]>
+      </Code>
+    </Snippet>
+  </CodeSnippet>
+</CodeSnippets>

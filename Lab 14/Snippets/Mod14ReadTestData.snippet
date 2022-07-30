@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CodeSnippets xmlns="http://schemas.microsoft.com/VisualStudio/2005/CodeSnippet">
+  <CodeSnippet Format="1.0.0">
+
+    <Header>
+      <Title>
+        Mod14ReadTestData
+      </Title>
+      <Shortcut>
+        Mod14ReadTestData
+      </Shortcut>
+    </Header>
+    <Snippet>
+      <Code Language="CSharp">
+        <![CDATA[         
+        private void ReadTestData()
+        {
+            // Open a stream over the file holding the test data
+            using (FileStream readStream = File.Open(stressDataFilename, FileMode.Open))
+            {
+                // The data is serialized as TestResult instances.
+                // Use a BinaryFormatter object to read the stream and 
+                // deserialize the data.
+                BinaryFormatter formatter = new BinaryFormatter();
+                TestResult initialNode = 
+                    (TestResult)formatter.Deserialize(readStream);
+
+                // Create the binary tree and use the first item retrieved 
+                // as the root node. (Note: The tree will likely be
+                // unbalanced, becuase it is probable that most nodes will 
+                // have a value that is greater than or equal to the value in 
+                // this root node - this is because of the way in which the 
+                // test results are generated and the fact that the TestResult
+                // class uses the deflection as the discriminator when it 
+                // compares instances.)
+                stressData = new Tree<TestResult>(initialNode);
+
+                // Read the TestResult instances from the rest of the file
+                // and add them into the binary tree.
+                while (readStream.Position < readStream.Length)
+                {
+                    TestResult data = 
+                        (TestResult)formatter.Deserialize(readStream);
+                    stressData.Insert(data);
+                }
+            }
+        }
+    ]]>
+      </Code>
+    </Snippet>
+  </CodeSnippet>
+</CodeSnippets>

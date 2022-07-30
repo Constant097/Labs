@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="2819899d-613c-437c-b042-fd7e3796848a" name="Student@10266A-ANTONYN 2010-02-01 03:18:45" runUser="10266A-ANTONYN\Student" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="0708a396-de10-4a2d-a413-145187a6972c">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="Student_10266A-ANTONYN 2010-02-01 03_18_45">
+      <DeploymentItem filename="E:\Labfiles\Lab 3\Ex2\Starter\GreatestCommonDivisor\bin\Debug\Module3.exe" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2010-02-01T03:18:45.0625000-08:00" queuing="2010-02-01T03:18:46.9296875-08:00" start="2010-02-01T03:18:47.1699219-08:00" finish="2010-02-01T03:18:47.8769532-08:00" />
+  <ResultSummary outcome="Completed">
+    <Counters total="1" executed="1" passed="1" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="FindGCDEuclidTest" storage="e:\labfiles\lab 3\ex2\starter\gcd test project\bin\debug\gcd test project.dll" id="67d06ec2-a81d-a48a-4bd7-d6a5d20f3438">
+      <Execution id="fa57e361-f34f-458d-9c3e-aa494557a559" />
+      <TestMethod codeBase="E:/Labfiles/Lab 3/Ex2/Starter/GCD Test Project/bin/Debug/GCD Test Project.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="GCD_Test_Project.GCDAlgorithmsTest, GCD Test Project, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="FindGCDEuclidTest" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="67d06ec2-a81d-a48a-4bd7-d6a5d20f3438" executionId="fa57e361-f34f-458d-9c3e-aa494557a559" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="fa57e361-f34f-458d-9c3e-aa494557a559" testId="67d06ec2-a81d-a48a-4bd7-d6a5d20f3438" testName="FindGCDEuclidTest" computerName="10266A-ANTONYN" duration="00:00:00.0185302" startTime="2010-02-01T03:18:47.2519532-08:00" endTime="2010-02-01T03:18:47.7392579-08:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="fa57e361-f34f-458d-9c3e-aa494557a559">
+    </UnitTestResult>
+  </Results>
+</TestRun>

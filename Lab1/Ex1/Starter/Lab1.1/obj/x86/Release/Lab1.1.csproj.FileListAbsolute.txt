@@ -1,0 +1,5 @@
+E:\Labfiles\Lab 1\Ex1\Starter\Lab1.1\bin\Release\DataFile.txt
+E:\Labfiles\Lab 1\Ex1\Starter\Lab1.1\bin\Release\Lab1.1.exe
+E:\Labfiles\Lab 1\Ex1\Starter\Lab1.1\bin\Release\Lab1.1.pdb
+E:\Labfiles\Lab 1\Ex1\Starter\Lab1.1\obj\x86\Release\Lab1.1.exe
+E:\Labfiles\Lab 1\Ex1\Starter\Lab1.1\obj\x86\Release\Lab1.1.pdb

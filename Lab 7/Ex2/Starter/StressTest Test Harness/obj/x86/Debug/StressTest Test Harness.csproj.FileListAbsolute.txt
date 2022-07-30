@@ -1,0 +1,46 @@
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Lab 7\Ex 1 - Hiding Data Members\Solution\StressTest Test Harness\bin\Debug\Exercise 4 Test Harness.exe
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Lab 7\Ex 1 - Hiding Data Members\Solution\StressTest Test Harness\bin\Debug\Exercise 4 Test Harness.pdb
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Lab 7\Ex 1 - Hiding Data Members\Solution\StressTest Test Harness\bin\Debug\StressTest.dll
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Lab 7\Ex 1 - Hiding Data Members\Solution\StressTest Test Harness\bin\Debug\StressTest.pdb
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Lab 7\Ex 1 - Hiding Data Members\Solution\StressTest Test Harness\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Lab 7\Ex 1 - Hiding Data Members\Solution\StressTest Test Harness\obj\x86\Debug\MainWindow.baml
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Lab 7\Ex 1 - Hiding Data Members\Solution\StressTest Test Harness\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Lab 7\Ex 1 - Hiding Data Members\Solution\StressTest Test Harness\obj\x86\Debug\App.g.cs
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Lab 7\Ex 1 - Hiding Data Members\Solution\StressTest Test Harness\obj\x86\Debug\Exercise 4 Test Harness_MarkupCompile.cache
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Lab 7\Ex 1 - Hiding Data Members\Solution\StressTest Test Harness\obj\x86\Debug\Exercise 4 Test Harness.g.resources
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Lab 7\Ex 1 - Hiding Data Members\Solution\StressTest Test Harness\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Lab 7\Ex 1 - Hiding Data Members\Solution\StressTest Test Harness\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Lab 7\Ex 1 - Hiding Data Members\Solution\StressTest Test Harness\obj\x86\Debug\Exercise 4 Test Harness.exe
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Lab 7\Ex 1 - Hiding Data Members\Solution\StressTest Test Harness\obj\x86\Debug\Exercise 4 Test Harness.pdb
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Lab 7\Ex 1 - Hiding Data Members\Solution\StressTest Test Harness\obj\x86\Debug\StessTest_Test_Harness.Properties.Resources.resources
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Lab 7\Ex 2 - Using Static Members\Solution\StressTest Test Harness\obj\x86\Debug\Exercise 4 Test Harness.exe
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Lab 7\Ex 2 - Using Static Members\Solution\StressTest Test Harness\obj\x86\Debug\Exercise 4 Test Harness.pdb
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Lab 7\Ex 2 - Using Static Members\Solution\StressTest Test Harness\bin\Debug\Exercise 4 Test Harness.exe
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Lab 7\Ex 2 - Using Static Members\Solution\StressTest Test Harness\bin\Debug\Exercise 4 Test Harness.pdb
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Lab 7\Ex 2 - Using Static Members\Solution\StressTest Test Harness\bin\Debug\StressTest.dll
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Lab 7\Ex 2 - Using Static Members\Solution\StressTest Test Harness\bin\Debug\StressTest.pdb
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Lab 7\Ex 2 - Using Static Members\Solution\StressTest Test Harness\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Lab 7\Ex 2 - Using Static Members\Solution\StressTest Test Harness\obj\x86\Debug\MainWindow.baml
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Lab 7\Ex 2 - Using Static Members\Solution\StressTest Test Harness\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Lab 7\Ex 2 - Using Static Members\Solution\StressTest Test Harness\obj\x86\Debug\App.g.cs
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Lab 7\Ex 2 - Using Static Members\Solution\StressTest Test Harness\obj\x86\Debug\Exercise 4 Test Harness_MarkupCompile.cache
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Lab 7\Ex 2 - Using Static Members\Solution\StressTest Test Harness\obj\x86\Debug\Exercise 4 Test Harness.g.resources
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Lab 7\Ex 2 - Using Static Members\Solution\StressTest Test Harness\obj\x86\Debug\StessTest_Test_Harness.Properties.Resources.resources
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Lab 7\Ex 2 - Using Static Members\Solution\StressTest Test Harness\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Lab 7\Ex 2 - Using Static Members\Solution\StressTest Test Harness\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Labfiles\Lab 7\Ex 2\Starter\StressTest Test Harness\obj\x86\Debug\Exercise 4 Test Harness.exe
+E:\Labfiles\Lab 7\Ex 2\Starter\StressTest Test Harness\obj\x86\Debug\Exercise 4 Test Harness.pdb
+E:\Labfiles\Lab 7\Ex2\Starter\StressTest Test Harness\obj\x86\Debug\Exercise 4 Test Harness.exe
+E:\Labfiles\Lab 7\Ex2\Starter\StressTest Test Harness\obj\x86\Debug\Exercise 4 Test Harness.pdb
+E:\Labfiles\Lab 7\Ex2\Starter\StressTest Test Harness\obj\x86\Debug\MainWindow.baml
+E:\Labfiles\Lab 7\Ex2\Starter\StressTest Test Harness\obj\x86\Debug\MainWindow.g.cs
+E:\Labfiles\Lab 7\Ex2\Starter\StressTest Test Harness\obj\x86\Debug\App.g.cs
+E:\Labfiles\Lab 7\Ex2\Starter\StressTest Test Harness\obj\x86\Debug\Exercise 4 Test Harness_MarkupCompile.cache
+E:\Labfiles\Lab 7\Ex2\Starter\StressTest Test Harness\obj\x86\Debug\Exercise 4 Test Harness.g.resources
+E:\Labfiles\Lab 7\Ex2\Starter\StressTest Test Harness\obj\x86\Debug\StessTest_Test_Harness.Properties.Resources.resources
+E:\Labfiles\Lab 7\Ex2\Starter\StressTest Test Harness\bin\Debug\Exercise 4 Test Harness.exe
+E:\Labfiles\Lab 7\Ex2\Starter\StressTest Test Harness\bin\Debug\Exercise 4 Test Harness.pdb
+E:\Labfiles\Lab 7\Ex2\Starter\StressTest Test Harness\bin\Debug\StressTest.dll
+E:\Labfiles\Lab 7\Ex2\Starter\StressTest Test Harness\bin\Debug\StressTest.pdb
+E:\Labfiles\Lab 7\Ex2\Starter\StressTest Test Harness\obj\x86\Debug\StressTest Test Harness.csprojResolveAssemblyReference.cache
+E:\Labfiles\Lab 7\Ex2\Starter\StressTest Test Harness\obj\x86\Debug\StressTest Test Harness.csproj.GenerateResource.Cache

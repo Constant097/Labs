@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CodeSnippets xmlns="http://schemas.microsoft.com/VisualStudio/2005/CodeSnippet">
+  <CodeSnippet Format="1.0.0">
+
+    <Header>
+      <Title>
+        Mod10 MatrixNotCompatibleExceptionClassConstructors
+      </Title>
+      <Shortcut>
+        Mod10MatrixNotCompatibleExceptionClassConstructors
+      </Shortcut>
+    </Header>
+    <Snippet>
+      <Code Language="CSharp">
+        <![CDATA[public MatrixNotCompatibleException()
+            : base()
+        {
+        }
+
+        public MatrixNotCompatibleException(string message)
+            : base(message)
+        {
+        }
+
+        public MatrixNotCompatibleException(string message, Exception innerException)
+            : base(message, innerException)
+        {
+        }
+
+        public MatrixNotCompatibleException(SerializationInfo info, StreamingContext context)
+            : base(info, context)
+        {
+        }]]>
+      </Code>
+    </Snippet>
+  </CodeSnippet>
+</CodeSnippets>

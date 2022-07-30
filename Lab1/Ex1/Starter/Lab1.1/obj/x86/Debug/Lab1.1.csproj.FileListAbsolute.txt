@@ -1,0 +1,16 @@
+E:\Labfiles\Lab 1\Ex1\Starter\Lab1.1\Lab1.1\bin\Debug\Lab1.1.exe
+E:\Labfiles\Lab 1\Ex1\Starter\Lab1.1\Lab1.1\bin\Debug\Lab1.1.pdb
+E:\Labfiles\Lab 1\Ex1\Starter\Lab1.1\Lab1.1\obj\x86\Debug\Lab1.1.exe
+E:\Labfiles\Lab 1\Ex1\Starter\Lab1.1\Lab1.1\obj\x86\Debug\Lab1.1.pdb
+E:\Labfiles\Lab 1\Ex1\Starter\Lab1.1\Lab1.1\bin\Debug\DataFile.txt
+E:\Labfiles\Lab 1\Ex1\Starter\Lab1.1\obj\x86\Debug\Lab1.1.exe
+E:\Labfiles\Lab 1\Ex1\Starter\Lab1.1\obj\x86\Debug\Lab1.1.pdb
+E:\Labfiles\Lab 1\Ex1\Starter\Lab1.1\bin\Debug\DataFile.txt
+E:\Labfiles\Lab 1\Ex1\Starter\Lab1.1\bin\Debug\Lab1.1.exe
+E:\Labfiles\Lab 1\Ex1\Starter\Lab1.1\bin\Debug\Lab1.1.pdb
+C:\Users\Admin\Desktop\Ex1\Starter\Lab1.1\obj\x86\Debug\Lab1.1.exe
+C:\Users\Admin\Desktop\Ex1\Starter\Lab1.1\obj\x86\Debug\Lab1.1.pdb
+C:\Users\Admin\Desktop\Ex1\Starter\Lab1.1\bin\Debug\DataFile.txt
+C:\Users\Admin\Desktop\Ex1\Starter\Lab1.1\bin\Debug\Lab1.1.exe
+C:\Users\Admin\Desktop\Ex1\Starter\Lab1.1\bin\Debug\Lab1.1.pdb
+C:\Users\Admin\Desktop\Ex1\Starter\Lab1.1\obj\x86\Debug\Lab1.1.csprojResolveAssemblyReference.cache

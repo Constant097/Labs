@@ -1,0 +1,9 @@
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Module6\Ex 2 - Structures\Solution\StressTest\bin\Debug\StressTest.dll
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Module6\Ex 2 - Structures\Solution\StressTest\bin\Debug\StressTest.pdb
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Module6\Ex 2 - Structures\Solution\StressTest\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Module6\Ex 2 - Structures\Solution\StressTest\obj\Debug\StressTest.dll
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Module6\Ex 2 - Structures\Solution\StressTest\obj\Debug\StressTest.pdb
+E:\Labfiles\Lab 6\Ex2\Starter\StressTest\bin\Debug\StressTest.dll
+E:\Labfiles\Lab 6\Ex2\Starter\StressTest\bin\Debug\StressTest.pdb
+E:\Labfiles\Lab 6\Ex2\Starter\StressTest\obj\Debug\StressTest.dll
+E:\Labfiles\Lab 6\Ex2\Starter\StressTest\obj\Debug\StressTest.pdb

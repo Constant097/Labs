@@ -1,0 +1,31 @@
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Module6\Ex 3 - Classes\Solution\Classes\bin\Debug\Classes.exe
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Module6\Ex 3 - Classes\Solution\Classes\bin\Debug\Classes.pdb
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Module6\Ex 3 - Classes\Solution\Classes\bin\Debug\StressTest.dll
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Module6\Ex 3 - Classes\Solution\Classes\bin\Debug\StressTest.pdb
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Module6\Ex 3 - Classes\Solution\Classes\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Module6\Ex 3 - Classes\Solution\Classes\obj\x86\Debug\MainWindow.baml
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Module6\Ex 3 - Classes\Solution\Classes\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Module6\Ex 3 - Classes\Solution\Classes\obj\x86\Debug\App.g.cs
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Module6\Ex 3 - Classes\Solution\Classes\obj\x86\Debug\Classes_MarkupCompile.cache
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Module6\Ex 3 - Classes\Solution\Classes\obj\x86\Debug\Classes.g.resources
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Module6\Ex 3 - Classes\Solution\Classes\obj\x86\Debug\Classes.Properties.Resources.resources
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Module6\Ex 3 - Classes\Solution\Classes\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Module6\Ex 3 - Classes\Solution\Classes\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Module6\Ex 3 - Classes\Solution\Classes\obj\x86\Debug\Classes.exe
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Module6\Ex 3 - Classes\Solution\Classes\obj\x86\Debug\Classes.pdb
+E:\Labfiles\Lab 6\Ex 3\Starter\Classes\obj\x86\Debug\Classes.exe
+E:\Labfiles\Lab 6\Ex 3\Starter\Classes\obj\x86\Debug\Classes.pdb
+E:\Labfiles\Lab 6\Ex3\Starter\Classes\obj\x86\Debug\Classes.exe
+E:\Labfiles\Lab 6\Ex3\Starter\Classes\obj\x86\Debug\Classes.pdb
+E:\Labfiles\Lab 6\Ex3\Starter\Classes\bin\Debug\Classes.exe
+E:\Labfiles\Lab 6\Ex3\Starter\Classes\bin\Debug\Classes.pdb
+E:\Labfiles\Lab 6\Ex3\Starter\Classes\bin\Debug\StressTest.dll
+E:\Labfiles\Lab 6\Ex3\Starter\Classes\bin\Debug\StressTest.pdb
+E:\Labfiles\Lab 6\Ex3\Starter\Classes\obj\x86\Debug\Test Harness.csprojResolveAssemblyReference.cache
+E:\Labfiles\Lab 6\Ex3\Starter\Classes\obj\x86\Debug\MainWindow.baml
+E:\Labfiles\Lab 6\Ex3\Starter\Classes\obj\x86\Debug\MainWindow.g.cs
+E:\Labfiles\Lab 6\Ex3\Starter\Classes\obj\x86\Debug\App.g.cs
+E:\Labfiles\Lab 6\Ex3\Starter\Classes\obj\x86\Debug\Classes_MarkupCompile.cache
+E:\Labfiles\Lab 6\Ex3\Starter\Classes\obj\x86\Debug\Classes.g.resources
+E:\Labfiles\Lab 6\Ex3\Starter\Classes\obj\x86\Debug\Classes.Properties.Resources.resources
+E:\Labfiles\Lab 6\Ex3\Starter\Classes\obj\x86\Debug\Test Harness.csproj.GenerateResource.Cache

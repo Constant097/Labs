@@ -1,0 +1,21 @@
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Lab 7\Ex 1 - Hiding Data Members\Solution\StressTest Unit Test Project\bin\Debug\Module 7 Unit Test Project.dll
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Lab 7\Ex 1 - Hiding Data Members\Solution\StressTest Unit Test Project\bin\Debug\Module 7 Unit Test Project.pdb
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Lab 7\Ex 1 - Hiding Data Members\Solution\StressTest Unit Test Project\bin\Debug\StressTest.dll
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Lab 7\Ex 1 - Hiding Data Members\Solution\StressTest Unit Test Project\bin\Debug\StressTest.pdb
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Lab 7\Ex 1 - Hiding Data Members\Solution\StressTest Unit Test Project\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Lab 7\Ex 1 - Hiding Data Members\Solution\StressTest Unit Test Project\obj\Debug\Module 7 Unit Test Project.dll
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Lab 7\Ex 1 - Hiding Data Members\Solution\StressTest Unit Test Project\obj\Debug\Module 7 Unit Test Project.pdb
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Lab 7\Ex 2 - Using Static Members\Solution\StressTest Unit Test Project\bin\Debug\Module 7 Unit Test Project.dll
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Lab 7\Ex 2 - Using Static Members\Solution\StressTest Unit Test Project\bin\Debug\Module 7 Unit Test Project.pdb
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Lab 7\Ex 2 - Using Static Members\Solution\StressTest Unit Test Project\bin\Debug\StressTest.dll
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Lab 7\Ex 2 - Using Static Members\Solution\StressTest Unit Test Project\bin\Debug\StressTest.pdb
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Lab 7\Ex 2 - Using Static Members\Solution\StressTest Unit Test Project\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Lab 7\Ex 2 - Using Static Members\Solution\StressTest Unit Test Project\obj\Debug\Module 7 Unit Test Project.dll
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Lab 7\Ex 2 - Using Static Members\Solution\StressTest Unit Test Project\obj\Debug\Module 7 Unit Test Project.pdb
+E:\Labfiles\Lab 7\Ex2\Starter\StressTest Unit Test Project\bin\Debug\Module 7 Unit Test Project.dll
+E:\Labfiles\Lab 7\Ex2\Starter\StressTest Unit Test Project\bin\Debug\Module 7 Unit Test Project.pdb
+E:\Labfiles\Lab 7\Ex2\Starter\StressTest Unit Test Project\bin\Debug\StressTest.dll
+E:\Labfiles\Lab 7\Ex2\Starter\StressTest Unit Test Project\bin\Debug\StressTest.pdb
+E:\Labfiles\Lab 7\Ex2\Starter\StressTest Unit Test Project\obj\Debug\StressTest Unit Test Project.csprojResolveAssemblyReference.cache
+E:\Labfiles\Lab 7\Ex2\Starter\StressTest Unit Test Project\obj\Debug\Module 7 Unit Test Project.dll
+E:\Labfiles\Lab 7\Ex2\Starter\StressTest Unit Test Project\obj\Debug\Module 7 Unit Test Project.pdb

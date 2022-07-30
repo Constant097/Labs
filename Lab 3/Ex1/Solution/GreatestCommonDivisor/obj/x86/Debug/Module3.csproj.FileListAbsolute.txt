@@ -1,0 +1,13 @@
+c:\users\dominic\documents\visual studio 2010\Projects\Module3\Module3\bin\Debug\Module3.exe
+c:\users\dominic\documents\visual studio 2010\Projects\Module3\Module3\bin\Debug\Module3.pdb
+c:\users\dominic\documents\visual studio 2010\Projects\Module3\Module3\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\dominic\documents\visual studio 2010\Projects\Module3\Module3\obj\x86\Debug\MainWindow.baml
+c:\users\dominic\documents\visual studio 2010\Projects\Module3\Module3\obj\x86\Debug\MainWindow.g.cs
+c:\users\dominic\documents\visual studio 2010\Projects\Module3\Module3\obj\x86\Debug\App.g.cs
+c:\users\dominic\documents\visual studio 2010\Projects\Module3\Module3\obj\x86\Debug\Module3_MarkupCompile.cache
+c:\users\dominic\documents\visual studio 2010\Projects\Module3\Module3\obj\x86\Debug\Module3.g.resources
+c:\users\dominic\documents\visual studio 2010\Projects\Module3\Module3\obj\x86\Debug\Module3.Properties.Resources.resources
+c:\users\dominic\documents\visual studio 2010\Projects\Module3\Module3\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\dominic\documents\visual studio 2010\Projects\Module3\Module3\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\dominic\documents\visual studio 2010\Projects\Module3\Module3\obj\x86\Debug\Module3.exe
+c:\users\dominic\documents\visual studio 2010\Projects\Module3\Module3\obj\x86\Debug\Module3.pdb

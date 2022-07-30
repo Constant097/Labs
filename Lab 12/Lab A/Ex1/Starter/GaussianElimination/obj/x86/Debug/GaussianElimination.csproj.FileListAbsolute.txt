@@ -1,0 +1,14 @@
+C:\Users\James\Desktop\MSL C# Labs\Module12\Ex1\Module12\GaussianElimination\bin\Debug\GaussianElimination.dll
+C:\Users\James\Desktop\MSL C# Labs\Module12\Ex1\Module12\GaussianElimination\bin\Debug\GaussianElimination.pdb
+C:\Users\James\Desktop\MSL C# Labs\Module12\Ex1\Module12\GaussianElimination\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\James\Desktop\MSL C# Labs\Module12\Ex1\Module12\GaussianElimination\obj\x86\Debug\GaussianElimination.dll
+C:\Users\James\Desktop\MSL C# Labs\Module12\Ex1\Module12\GaussianElimination\obj\x86\Debug\GaussianElimination.pdb
+C:\Users\James\Desktop\MSL C# Labs\Module12\Ex1\Starter\GaussianElimination\bin\Debug\GaussianElimination.dll
+C:\Users\James\Desktop\MSL C# Labs\Module12\Ex1\Starter\GaussianElimination\bin\Debug\GaussianElimination.pdb
+C:\Users\James\Desktop\MSL C# Labs\Module12\Ex1\Starter\GaussianElimination\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\James\Desktop\MSL C# Labs\Module12\Ex1\Starter\GaussianElimination\obj\x86\Debug\GaussianElimination.dll
+C:\Users\James\Desktop\MSL C# Labs\Module12\Ex1\Starter\GaussianElimination\obj\x86\Debug\GaussianElimination.pdb
+E:\Labfiles\Lab 12\Lab A\Ex1\Starter\GaussianElimination\bin\Debug\GaussianElimination.dll
+E:\Labfiles\Lab 12\Lab A\Ex1\Starter\GaussianElimination\bin\Debug\GaussianElimination.pdb
+E:\Labfiles\Lab 12\Lab A\Ex1\Starter\GaussianElimination\obj\x86\Debug\GaussianElimination.dll
+E:\Labfiles\Lab 12\Lab A\Ex1\Starter\GaussianElimination\obj\x86\Debug\GaussianElimination.pdb

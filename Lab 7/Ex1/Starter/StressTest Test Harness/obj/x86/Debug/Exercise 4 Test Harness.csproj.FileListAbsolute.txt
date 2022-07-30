@@ -1,0 +1,15 @@
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Module6\Exercise 4 Test Harness\bin\Debug\Exercise 4 Test Harness.exe
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Module6\Exercise 4 Test Harness\bin\Debug\Exercise 4 Test Harness.pdb
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Module6\Exercise 4 Test Harness\bin\Debug\StressTest.dll
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Module6\Exercise 4 Test Harness\bin\Debug\StressTest.pdb
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Module6\Exercise 4 Test Harness\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Module6\Exercise 4 Test Harness\obj\x86\Debug\MainWindow.baml
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Module6\Exercise 4 Test Harness\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Module6\Exercise 4 Test Harness\obj\x86\Debug\App.g.cs
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Module6\Exercise 4 Test Harness\obj\x86\Debug\Exercise 4 Test Harness_MarkupCompile.cache
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Module6\Exercise 4 Test Harness\obj\x86\Debug\Exercise 4 Test Harness.g.resources
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Module6\Exercise 4 Test Harness\obj\x86\Debug\Exercise_4_Test_Harness.Properties.Resources.resources
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Module6\Exercise 4 Test Harness\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Module6\Exercise 4 Test Harness\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Module6\Exercise 4 Test Harness\obj\x86\Debug\Exercise 4 Test Harness.exe
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Module6\Exercise 4 Test Harness\obj\x86\Debug\Exercise 4 Test Harness.pdb

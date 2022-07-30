@@ -1,0 +1,15 @@
+E:\Labfiles\Lab 12\Lab A\Ex1\Starter\TestHarness\bin\Debug\TestHarness.exe.config
+E:\Labfiles\Lab 12\Lab A\Ex1\Starter\TestHarness\bin\Debug\TestHarness.exe
+E:\Labfiles\Lab 12\Lab A\Ex1\Starter\TestHarness\bin\Debug\TestHarness.pdb
+E:\Labfiles\Lab 12\Lab A\Ex1\Starter\TestHarness\bin\Debug\GaussianElimination.dll
+E:\Labfiles\Lab 12\Lab A\Ex1\Starter\TestHarness\bin\Debug\GaussianElimination.pdb
+E:\Labfiles\Lab 12\Lab A\Ex1\Starter\TestHarness\obj\x86\Debug\MainWindow.baml
+E:\Labfiles\Lab 12\Lab A\Ex1\Starter\TestHarness\obj\x86\Debug\MainWindow.g.cs
+E:\Labfiles\Lab 12\Lab A\Ex1\Starter\TestHarness\obj\x86\Debug\App.g.cs
+E:\Labfiles\Lab 12\Lab A\Ex1\Starter\TestHarness\obj\x86\Debug\TestHarness_MarkupCompile.cache
+E:\Labfiles\Lab 12\Lab A\Ex1\Starter\TestHarness\obj\x86\Debug\TestHarness.g.resources
+E:\Labfiles\Lab 12\Lab A\Ex1\Starter\TestHarness\obj\x86\Debug\TestHarness.Properties.Resources.resources
+E:\Labfiles\Lab 12\Lab A\Ex1\Starter\TestHarness\obj\x86\Debug\TestHarness.exe
+E:\Labfiles\Lab 12\Lab A\Ex1\Starter\TestHarness\obj\x86\Debug\TestHarness.pdb
+E:\Labfiles\Lab 12\Lab A\Ex1\Starter\TestHarness\obj\x86\Debug\TestHarness.csprojResolveAssemblyReference.cache
+E:\Labfiles\Lab 12\Lab A\Ex1\Starter\TestHarness\obj\x86\Debug\TestHarness.csproj.GenerateResource.Cache

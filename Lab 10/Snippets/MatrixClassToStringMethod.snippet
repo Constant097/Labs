@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CodeSnippets xmlns="http://schemas.microsoft.com/VisualStudio/2005/CodeSnippet">
+  <CodeSnippet Format="1.0.0">
+
+    <Header>
+      <Title>
+        Mod10 MatrixClassToStringMethod      
+      </Title>
+      <Shortcut>
+        Mod10MatrixClassToStringMethod
+      </Shortcut>
+    </Header>
+    <Snippet>
+      <Code Language="CSharp">
+        <![CDATA[/// <summary>
+        /// Converts the Matrix object to a string object with formatting and line breaks.
+        /// </summary>
+        /// <returns>A formatted string representing the Matrix.</returns>
+        public override string ToString()
+        {
+            StringBuilder builder = new StringBuilder();
+            
+            // Iterate over every row in the matrix.
+            for (int x = 0; x < data.GetLength(0); x++)
+            {
+                // Iterate over every column in the matrix.
+                for (int y = 0; y < data.GetLength(1); y++)
+                {
+                    builder.AppendFormat("{0}\t", data[x, y]);
+                }
+                builder.Append(Environment.NewLine);
+            }
+
+            return builder.ToString();
+        }]]>
+      </Code>
+    </Snippet>
+  </CodeSnippet>
+</CodeSnippets>

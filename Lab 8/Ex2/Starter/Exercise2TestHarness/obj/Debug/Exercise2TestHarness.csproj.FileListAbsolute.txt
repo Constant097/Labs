@@ -1,0 +1,54 @@
+C:\Users\James\Desktop\MSL C# Labs\Module8\Ex2\Solution\Exercise2TestHarness\bin\Debug\Exercise2TestHarness.exe.config
+C:\Users\James\Desktop\MSL C# Labs\Module8\Ex2\Solution\Exercise2TestHarness\bin\Debug\Exercise2TestHarness.exe
+C:\Users\James\Desktop\MSL C# Labs\Module8\Ex2\Solution\Exercise2TestHarness\bin\Debug\Exercise2TestHarness.pdb
+C:\Users\James\Desktop\MSL C# Labs\Module8\Ex2\Solution\Exercise2TestHarness\bin\Debug\MeasuringDevice.dll
+C:\Users\James\Desktop\MSL C# Labs\Module8\Ex2\Solution\Exercise2TestHarness\bin\Debug\DeviceController.dll
+C:\Users\James\Desktop\MSL C# Labs\Module8\Ex2\Solution\Exercise2TestHarness\bin\Debug\MeasuringDevice.pdb
+C:\Users\James\Desktop\MSL C# Labs\Module8\Ex2\Solution\Exercise2TestHarness\bin\Debug\DeviceController.pdb
+C:\Users\James\Desktop\MSL C# Labs\Module8\Ex2\Solution\Exercise2TestHarness\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\James\Desktop\MSL C# Labs\Module8\Ex2\Solution\Exercise2TestHarness\obj\Debug\MainWindow.baml
+C:\Users\James\Desktop\MSL C# Labs\Module8\Ex2\Solution\Exercise2TestHarness\obj\Debug\MainWindow.g.cs
+C:\Users\James\Desktop\MSL C# Labs\Module8\Ex2\Solution\Exercise2TestHarness\obj\Debug\App.g.cs
+C:\Users\James\Desktop\MSL C# Labs\Module8\Ex2\Solution\Exercise2TestHarness\obj\Debug\Exercise2TestHarness_MarkupCompile.cache
+C:\Users\James\Desktop\MSL C# Labs\Module8\Ex2\Solution\Exercise2TestHarness\obj\Debug\Exercise2TestHarness.g.resources
+C:\Users\James\Desktop\MSL C# Labs\Module8\Ex2\Solution\Exercise2TestHarness\obj\Debug\Exercise2TestHarness.Properties.Resources.resources
+C:\Users\James\Desktop\MSL C# Labs\Module8\Ex2\Solution\Exercise2TestHarness\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\James\Desktop\MSL C# Labs\Module8\Ex2\Solution\Exercise2TestHarness\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\James\Desktop\MSL C# Labs\Module8\Ex2\Solution\Exercise2TestHarness\obj\Debug\Exercise2TestHarness.exe
+C:\Users\James\Desktop\MSL C# Labs\Module8\Ex2\Solution\Exercise2TestHarness\obj\Debug\Exercise2TestHarness.pdb
+C:\Users\James\Desktop\MSL C# Labs\Module8\Ex2\Starter\Exercise2TestHarness\bin\Debug\Exercise2TestHarness.exe.config
+C:\Users\James\Desktop\MSL C# Labs\Module8\Ex2\Starter\Exercise2TestHarness\obj\Debug\Exercise2TestHarness.exe
+C:\Users\James\Desktop\MSL C# Labs\Module8\Ex2\Starter\Exercise2TestHarness\obj\Debug\Exercise2TestHarness.pdb
+E:\Labfiles\Lab8\Ex2\Starter\Exercise2TestHarness\bin\Debug\Exercise2TestHarness.exe.config
+E:\Labfiles\Lab8\Ex2\Starter\Exercise2TestHarness\obj\Debug\Exercise2TestHarness.exe
+E:\Labfiles\Lab8\Ex2\Starter\Exercise2TestHarness\obj\Debug\Exercise2TestHarness.pdb
+E:\Labfiles\Lab8\Ex2\Starter\Exercise2TestHarness\bin\Debug\Exercise2TestHarness.exe
+E:\Labfiles\Lab8\Ex2\Starter\Exercise2TestHarness\bin\Debug\Exercise2TestHarness.pdb
+E:\Labfiles\Lab8\Ex2\Starter\Exercise2TestHarness\bin\Debug\MeasuringDevice.dll
+E:\Labfiles\Lab8\Ex2\Starter\Exercise2TestHarness\bin\Debug\MeasuringDevice.pdb
+E:\Labfiles\Lab8\Ex2\Starter\Exercise2TestHarness\obj\Debug\ResolveAssemblyReference.cache
+E:\Labfiles\Lab8\Ex2\Starter\Exercise2TestHarness\obj\Debug\MainWindow.baml
+E:\Labfiles\Lab8\Ex2\Starter\Exercise2TestHarness\obj\Debug\MainWindow.g.cs
+E:\Labfiles\Lab8\Ex2\Starter\Exercise2TestHarness\obj\Debug\App.g.cs
+E:\Labfiles\Lab8\Ex2\Starter\Exercise2TestHarness\obj\Debug\Exercise2TestHarness_MarkupCompile.cache
+E:\Labfiles\Lab8\Ex2\Starter\Exercise2TestHarness\obj\Debug\Exercise2TestHarness.g.resources
+E:\Labfiles\Lab8\Ex2\Starter\Exercise2TestHarness\obj\Debug\Exercise2TestHarness.Properties.Resources.resources
+E:\Labfiles\Lab8\Ex2\Starter\Exercise2TestHarness\obj\Debug\GenerateResource.read.1.tlog
+E:\Labfiles\Lab8\Ex2\Starter\Exercise2TestHarness\obj\Debug\GenerateResource.write.1.tlog
+E:\Labfiles\Lab 8\Ex2\Starter\Exercise2TestHarness\bin\Debug\Exercise2TestHarness.exe.config
+E:\Labfiles\Lab 8\Ex2\Starter\Exercise2TestHarness\bin\Debug\Exercise2TestHarness.exe
+E:\Labfiles\Lab 8\Ex2\Starter\Exercise2TestHarness\bin\Debug\Exercise2TestHarness.pdb
+E:\Labfiles\Lab 8\Ex2\Starter\Exercise2TestHarness\bin\Debug\MeasuringDevice.dll
+E:\Labfiles\Lab 8\Ex2\Starter\Exercise2TestHarness\bin\Debug\MeasuringDevice.pdb
+E:\Labfiles\Lab 8\Ex2\Starter\Exercise2TestHarness\obj\Debug\MainWindow.baml
+E:\Labfiles\Lab 8\Ex2\Starter\Exercise2TestHarness\obj\Debug\MainWindow.g.cs
+E:\Labfiles\Lab 8\Ex2\Starter\Exercise2TestHarness\obj\Debug\App.g.cs
+E:\Labfiles\Lab 8\Ex2\Starter\Exercise2TestHarness\obj\Debug\Exercise2TestHarness_MarkupCompile.cache
+E:\Labfiles\Lab 8\Ex2\Starter\Exercise2TestHarness\obj\Debug\Exercise2TestHarness.g.resources
+E:\Labfiles\Lab 8\Ex2\Starter\Exercise2TestHarness\obj\Debug\Exercise2TestHarness.Properties.Resources.resources
+E:\Labfiles\Lab 8\Ex2\Starter\Exercise2TestHarness\obj\Debug\Exercise2TestHarness.exe
+E:\Labfiles\Lab 8\Ex2\Starter\Exercise2TestHarness\obj\Debug\Exercise2TestHarness.pdb
+E:\Labfiles\Lab 8\Ex2\Starter\Exercise2TestHarness\obj\Debug\Exercise2TestHarness.csprojResolveAssemblyReference.cache
+E:\Labfiles\Lab 8\Ex2\Starter\Exercise2TestHarness\obj\Debug\Exercise2TestHarness.csproj.GenerateResource.Cache
+E:\Labfiles\Lab 8\Ex2\Starter\Exercise2TestHarness\bin\Debug\DeviceController.dll
+E:\Labfiles\Lab 8\Ex2\Starter\Exercise2TestHarness\bin\Debug\DeviceController.pdb
