@@ -1,0 +1,14 @@
+E:\Labfiles\Lab 12\Lab B\Ex3\Solution\TestHarness\bin\Debug\TestHarness.exe
+E:\Labfiles\Lab 12\Lab B\Ex3\Solution\TestHarness\bin\Debug\TestHarness.pdb
+E:\Labfiles\Lab 12\Lab B\Ex3\Solution\TestHarness\bin\Debug\BinaryTree.dll
+E:\Labfiles\Lab 12\Lab B\Ex3\Solution\TestHarness\bin\Debug\BinaryTree.pdb
+E:\Labfiles\Lab 12\Lab B\Ex3\Solution\TestHarness\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Labfiles\Lab 12\Lab B\Ex3\Solution\TestHarness\obj\x86\Debug\TestHarness.exe
+E:\Labfiles\Lab 12\Lab B\Ex3\Solution\TestHarness\obj\x86\Debug\TestHarness.pdb
+E:\Labfiles\Lab 12\Lab B\Ex3\Starter\TestHarness\obj\x86\Debug\TestHarness.exe
+E:\Labfiles\Lab 12\Lab B\Ex3\Starter\TestHarness\obj\x86\Debug\TestHarness.pdb
+E:\Labfiles\Lab 12\Lab B\Ex3\Starter\TestHarness\bin\Debug\TestHarness.exe
+E:\Labfiles\Lab 12\Lab B\Ex3\Starter\TestHarness\bin\Debug\TestHarness.pdb
+E:\Labfiles\Lab 12\Lab B\Ex3\Starter\TestHarness\bin\Debug\BinaryTree.dll
+E:\Labfiles\Lab 12\Lab B\Ex3\Starter\TestHarness\bin\Debug\BinaryTree.pdb
+E:\Labfiles\Lab 12\Lab B\Ex3\Starter\TestHarness\obj\x86\Debug\ResolveAssemblyReference.cache

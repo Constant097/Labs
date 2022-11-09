@@ -1,0 +1,108 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CodeSnippets xmlns="http://schemas.microsoft.com/VisualStudio/2005/CodeSnippet">
+  <CodeSnippet Format="1.0.0">
+    <Header>
+      <Title>
+        Mod12Remove
+      </Title>
+      <Shortcut>
+        Mod12Remove
+      </Shortcut>
+    </Header>
+    <Snippet>
+      <Code Language="CSharp">
+        <![CDATA[/// <summary>
+        /// Removes an item from the tree.
+        /// <para>
+        /// Note that you cannot remove the last node from the tree.
+        /// </para>
+        /// <para>
+        /// If the item is not found in the tree, nothing happens.
+        /// </para>
+        /// <para>
+        /// The remove algorithm needs to treat removing the root node differently from other
+        /// nodes - if the root node has no children it can't be removed.
+        /// </para>
+        /// <para>
+        /// In general remove has to deal with 3 scenarios - nodes with no children,
+        /// nodes with a single child, and nodes with two children.
+        /// </para>
+        /// </summary>
+        /// <param name="itemToRemove"></param>
+        public void Remove(TItem itemToRemove)
+        {
+
+            // Cannot remove null.
+            if (itemToRemove == null)
+            {
+                return;
+            }
+
+            // Check if the item could be in the left tree.
+            if (this.NodeData.CompareTo(itemToRemove) > 0 && this.LeftTree != null)
+            {
+                // Check the left tree.
+                // Check 2 levels down the tree - cannot remove
+                // 'this', only the LeftTree or RightTree properties.
+                if (this.LeftTree.NodeData.CompareTo(itemToRemove) == 0)
+                {
+                    // The LeftTree property has no children - set the LeftTree property to null.
+                    if (this.LeftTree.LeftTree == null && this.LeftTree.RightTree == null)
+                    {
+                        this.LeftTree = null;
+                    }
+                    else // Remove the LeftTree property.
+                    {
+                        RemoveNodeWithChildren(this.LeftTree);
+                    }
+                }
+                else
+                {
+                    // Keep looking - call Remove recursively.
+                    this.LeftTree.Remove(itemToRemove);
+                }
+            }
+
+            // Check if the item could be in the right tree. 
+            if (this.NodeData.CompareTo(itemToRemove) < 0 && this.RightTree != null)
+            {
+                // Check the right tree.
+                // Check 2 levels down the tree - cannot remove
+                // 'this', only the LeftTree or RightTree properties.
+                if (this.RightTree.NodeData.CompareTo(itemToRemove) == 0)
+                {
+                    // RightTree has no children - set RightTree to null.
+                    if (this.RightTree.LeftTree == null && this.RightTree.RightTree == null)
+                    {
+                        this.RightTree = null;
+                    }
+                    else // Remove the RightTree property.
+                    {
+                        RemoveNodeWithChildren(this.RightTree);
+                    }
+                }
+                else
+                {
+                    // Keep looking - call Remove recursively.
+                    this.RightTree.Remove(itemToRemove);
+                }
+            }
+
+            // This will only apply at the root node.
+            if (this.NodeData.CompareTo(itemToRemove) == 0)
+            {
+                // No children - do nothing, a tree must have at least one node.               
+                if (this.LeftTree == null && this.RightTree == null)
+                {
+                    return;
+                }
+                else // Root node has children.
+                {
+                    RemoveNodeWithChildren(this);
+                }
+            }
+        }]]>
+      </Code>
+    </Snippet>
+  </CodeSnippet>
+</CodeSnippets>

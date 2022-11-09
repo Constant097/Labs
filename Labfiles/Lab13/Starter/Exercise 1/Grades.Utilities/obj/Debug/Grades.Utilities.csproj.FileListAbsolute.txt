@@ -1,0 +1,7 @@
+C:\Program Files\Microsoft Learning\20483\Allfiles\Mod13\Labfiles\Starter\Exercise 1\Grades.Utilities\bin\Debug\Grades.Utilities.dll
+C:\Program Files\Microsoft Learning\20483\Allfiles\Mod13\Labfiles\Starter\Exercise 1\Grades.Utilities\bin\Debug\Grades.Utilities.pdb
+C:\Program Files\Microsoft Learning\20483\Allfiles\Mod13\Labfiles\Starter\Exercise 1\Grades.Utilities\obj\Debug\Grades.Utilities.csproj.CoreCompileInputs.cache
+C:\Program Files\Microsoft Learning\20483\Allfiles\Mod13\Labfiles\Starter\Exercise 1\Grades.Utilities\obj\Debug\Grades.Utilities.dll
+C:\Program Files\Microsoft Learning\20483\Allfiles\Mod13\Labfiles\Starter\Exercise 1\Grades.Utilities\obj\Debug\Grades.Utilities.pdb
+C:\Program Files\Microsoft Learning\20483\Allfiles\Mod13\Labfiles\Starter\Exercise 1\Grades.Utilities\bin\Debug\Grades.Utilities.dll.CodeAnalysisLog.xml
+C:\Program Files\Microsoft Learning\20483\Allfiles\Mod13\Labfiles\Starter\Exercise 1\Grades.Utilities\bin\Debug\Grades.Utilities.dll.lastcodeanalysissucceeded

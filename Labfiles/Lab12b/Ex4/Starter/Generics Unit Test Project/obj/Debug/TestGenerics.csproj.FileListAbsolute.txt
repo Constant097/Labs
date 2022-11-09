@@ -1,0 +1,11 @@
+E:\Labfiles\Lab 12\Lab B\Ex4\Solution\Unit Tests for Module12\obj\Debug\ResolveAssemblyReference.cache
+E:\Labfiles\Lab 12\Lab B\Ex4\Solution\Unit Tests for Module12\obj\Debug\Unit Tests for Module12.dll
+E:\Labfiles\Lab 12\Lab B\Ex4\Starter\Generics Unit Test Project\bin\Debug\Unit Tests for Module12.dll
+E:\Labfiles\Lab 12\Lab B\Ex4\Starter\Generics Unit Test Project\bin\Debug\Unit Tests for Module12.pdb
+E:\Labfiles\Lab 12\Lab B\Ex4\Starter\Generics Unit Test Project\bin\Debug\BinaryTree.dll
+E:\Labfiles\Lab 12\Lab B\Ex4\Starter\Generics Unit Test Project\bin\Debug\BinaryTree.pdb
+E:\Labfiles\Lab 12\Lab B\Ex4\Starter\Generics Unit Test Project\bin\Debug\BinaryTree_Accessor.dll
+E:\Labfiles\Lab 12\Lab B\Ex4\Starter\Generics Unit Test Project\bin\Debug\BinaryTree_Accessor.pdb
+E:\Labfiles\Lab 12\Lab B\Ex4\Starter\Generics Unit Test Project\obj\Debug\ResolveAssemblyReference.cache
+E:\Labfiles\Lab 12\Lab B\Ex4\Starter\Generics Unit Test Project\obj\Debug\Unit Tests for Module12.dll
+E:\Labfiles\Lab 12\Lab B\Ex4\Starter\Generics Unit Test Project\obj\Debug\Unit Tests for Module12.pdb

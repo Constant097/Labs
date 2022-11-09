@@ -1,0 +1,10 @@
+E:\Labfiles\Lab 12\Lab B\Ex2\Starter (new)\BinaryTree\bin\Debug\BinaryTree.dll
+E:\Labfiles\Lab 12\Lab B\Ex2\Starter (new)\BinaryTree\bin\Debug\BinaryTree.pdb
+E:\Labfiles\Lab 12\Lab B\Ex2\Starter (new)\BinaryTree\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Labfiles\Lab 12\Lab B\Ex2\Starter (new)\BinaryTree\obj\x86\Debug\BinaryTree.dll
+E:\Labfiles\Lab 12\Lab B\Ex2\Starter (new)\BinaryTree\obj\x86\Debug\BinaryTree.pdb
+E:\Labfiles\Lab 12\Lab B\Ex2\Solution\BinaryTree\bin\Debug\BinaryTree.dll
+E:\Labfiles\Lab 12\Lab B\Ex2\Solution\BinaryTree\bin\Debug\BinaryTree.pdb
+E:\Labfiles\Lab 12\Lab B\Ex2\Solution\BinaryTree\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Labfiles\Lab 12\Lab B\Ex2\Solution\BinaryTree\obj\x86\Debug\BinaryTree.dll
+E:\Labfiles\Lab 12\Lab B\Ex2\Solution\BinaryTree\obj\x86\Debug\BinaryTree.pdb

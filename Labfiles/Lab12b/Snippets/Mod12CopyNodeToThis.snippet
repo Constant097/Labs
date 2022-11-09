@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CodeSnippets xmlns="http://schemas.microsoft.com/VisualStudio/2005/CodeSnippet">
+  <CodeSnippet Format="1.0.0">
+
+    <Header>
+      <Title>
+        Mod12CopyNodeToThis
+      </Title>
+      <Shortcut>
+        Mod12CopyNodeToThis
+      </Shortcut>
+    </Header>
+    <Snippet>
+      <Code Language="CSharp">
+        <![CDATA[/// <summary>
+        /// Utility method to copy values from another tree node to this node.
+        /// </summary>
+        /// <param name="node">Tree node to copy from.</param>
+        private void CopyNodeToThis(Tree<TItem> node)
+        {
+            this.NodeData = node.NodeData;
+            this.LeftTree = node.LeftTree;
+            this.RightTree = node.RightTree;
+        }]]>
+      </Code>
+    </Snippet>
+  </CodeSnippet>
+</CodeSnippets>

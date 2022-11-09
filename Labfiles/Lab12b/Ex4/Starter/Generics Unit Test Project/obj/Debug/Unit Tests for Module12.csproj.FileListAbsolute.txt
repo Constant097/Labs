@@ -1,0 +1,27 @@
+C:\Users\James\Desktop\MSL C# Labs\Module12\Ex3\Starter\Unit Tests for Module12\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\James\Desktop\MSL C# Labs\Module12\Ex3\Starter\Unit Tests for Module12\bin\Debug\Unit Tests for Module12.dll
+C:\Users\James\Desktop\MSL C# Labs\Module12\Ex3\Starter\Unit Tests for Module12\bin\Debug\Unit Tests for Module12.pdb
+C:\Users\James\Desktop\MSL C# Labs\Module12\Ex3\Starter\Unit Tests for Module12\bin\Debug\BinaryTree.dll
+C:\Users\James\Desktop\MSL C# Labs\Module12\Ex3\Starter\Unit Tests for Module12\bin\Debug\BinaryTree.pdb
+C:\Users\James\Desktop\MSL C# Labs\Module12\Ex3\Starter\Unit Tests for Module12\bin\Debug\BinaryTree_Accessor.dll
+C:\Users\James\Desktop\MSL C# Labs\Module12\Ex3\Starter\Unit Tests for Module12\bin\Debug\BinaryTree_Accessor.pdb
+C:\Users\James\Desktop\MSL C# Labs\Module12\Ex3\Starter\Unit Tests for Module12\obj\Debug\Unit Tests for Module12.dll
+C:\Users\James\Desktop\MSL C# Labs\Module12\Ex3\Starter\Unit Tests for Module12\obj\Debug\Unit Tests for Module12.pdb
+C:\Users\James\Desktop\MSL C# Labs\Module12\Ex4\Solution\Unit Tests for Module12\bin\Debug\Unit Tests for Module12.dll
+C:\Users\James\Desktop\MSL C# Labs\Module12\Ex4\Solution\Unit Tests for Module12\bin\Debug\Unit Tests for Module12.pdb
+C:\Users\James\Desktop\MSL C# Labs\Module12\Ex4\Solution\Unit Tests for Module12\bin\Debug\BinaryTree.dll
+C:\Users\James\Desktop\MSL C# Labs\Module12\Ex4\Solution\Unit Tests for Module12\bin\Debug\BinaryTree.pdb
+C:\Users\James\Desktop\MSL C# Labs\Module12\Ex4\Solution\Unit Tests for Module12\bin\Debug\BinaryTree_Accessor.dll
+C:\Users\James\Desktop\MSL C# Labs\Module12\Ex4\Solution\Unit Tests for Module12\bin\Debug\BinaryTree_Accessor.pdb
+C:\Users\James\Desktop\MSL C# Labs\Module12\Ex4\Solution\Unit Tests for Module12\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\James\Desktop\MSL C# Labs\Module12\Ex4\Solution\Unit Tests for Module12\obj\Debug\Unit Tests for Module12.dll
+C:\Users\James\Desktop\MSL C# Labs\Module12\Ex4\Solution\Unit Tests for Module12\obj\Debug\Unit Tests for Module12.pdb
+E:\Labfiles\Lab 12\Lab B\Ex3\Solution\Unit Tests for Module12\obj\Debug\ResolveAssemblyReference.cache
+E:\Labfiles\Lab 12\Lab B\Ex3\Solution\Unit Tests for Module12\obj\Debug\Unit Tests for Module12.dll
+E:\Labfiles\Lab 12\Lab B\Ex3\Solution\Unit Tests for Module12\obj\Debug\Unit Tests for Module12.pdb
+E:\Labfiles\Lab 12\Lab B\Ex3\Solution\Unit Tests for Module12\bin\Debug\Unit Tests for Module12.dll
+E:\Labfiles\Lab 12\Lab B\Ex3\Solution\Unit Tests for Module12\bin\Debug\Unit Tests for Module12.pdb
+E:\Labfiles\Lab 12\Lab B\Ex3\Solution\Unit Tests for Module12\bin\Debug\BinaryTree.dll
+E:\Labfiles\Lab 12\Lab B\Ex3\Solution\Unit Tests for Module12\bin\Debug\BinaryTree.pdb
+E:\Labfiles\Lab 12\Lab B\Ex3\Solution\Unit Tests for Module12\bin\Debug\BinaryTree_Accessor.dll
+E:\Labfiles\Lab 12\Lab B\Ex3\Solution\Unit Tests for Module12\bin\Debug\BinaryTree_Accessor.pdb

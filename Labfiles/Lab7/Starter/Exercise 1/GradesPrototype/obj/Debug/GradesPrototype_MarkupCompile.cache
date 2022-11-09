@@ -1,0 +1,20 @@
+﻿GradesPrototype
+
+
+winexe
+C#
+.cs
+C:\20483\Allfiles\Mod07\Labfiles\Starter\Exercise 1\GradesPrototype\obj\Debug\
+GradesPrototype
+none
+false
+DEBUG;TRACE
+C:\20483\Allfiles\Mod07\Labfiles\Starter\Exercise 1\GradesPrototype\App.xaml
+81537159824
+1-806905408
+20882951249
+12-146840801
+Controls\AssignStudentDialog.xaml;Controls\ChangePasswordDialog.xaml;Controls\GradeDialog.xaml;Controls\StudentDialog.xaml;MainWindow.xaml;Views\LogonPage.xaml;Views\StudentProfile.xaml;Views\StudentsPage.xaml;
+
+True
+
